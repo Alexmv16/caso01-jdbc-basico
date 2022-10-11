@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/sergio/Escritorio/CURSO2122/AD/UD2-gestion_conexiones_jdbc/casos/caso01-jdbc-basico/.metadata/.plugins/org.eclipse.jdt.core
+3913492405.index
+2503636028.index
