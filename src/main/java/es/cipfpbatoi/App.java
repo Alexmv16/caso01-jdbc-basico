@@ -41,8 +41,8 @@ public class App {
 //			  String diver = "org.postgresql.Driver";
 //            Class.forName(driver).newInstance();
 
-			String jdbcURL = "jdbc:mariadb://192.168.56.101:3306/empresa_ad";
-//			String jdbcURL = "jdbc:postgresql://192.168.56.101:5432/batoi?schema=empresa_ad";
+			String jdbcURL = "jdbc:mariadb://192.168.56.102:3306/empresa_ad";
+//			String jdbcURL = "jdbc:postgresql://192.168.56.102:5432/batoi?schema=empresa_ad";
 			Properties pc = new Properties();
 			pc.put("user", "batoi");
 			pc.put("password", "1234");
